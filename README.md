@@ -45,6 +45,8 @@ Has fields
 > 6. Product quantity
 > 7. Product Price
 > 8. Total price
+>
+>    
 The Data is stored in Redux store
 
 
