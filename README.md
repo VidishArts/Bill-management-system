@@ -43,8 +43,10 @@ Has fields
 > 4. Billing Date.
 >  5. Product Name
 > 6. Product quantity
-> 3. Product Price
-> 4. Total price
+> 7. Product Price
+> 8. Total price
+The Data is stored in Redux store
+
 
 
 ### Customer List 
