@@ -1,0 +1,29 @@
+.box{
+    background-color: whitesmoke;
+   
+    height: auto;
+    border: 1px solid coral;
+    border-radius: 40px;
+    box-shadow: 2px 2px 2px 2px rgb(100, 58, 58);
+}
+
+.biling{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+   
+}
+
+.lab{
+    font-weight: 500;
+}
+
+.show {
+    display: block;
+}
+
+
+.hide{
+    display: none;
+}

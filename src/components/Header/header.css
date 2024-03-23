@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.left-head{
+    margin-left: 63%;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+
+.list{
+    text-decoration: none;
+    gap: 10px;
+    color: rgba(0, 0, 0, 0.592);
+}
+
+.list:hover{
+    background: linear-gradient(to right, #ee7724, #d83639ad, #dd3676b8, #b44593);
+    transform: scale(1.1,1); 
+    border-radius: 13px;
+    color: white;
+}
+
+.hide{
+    display: none;
+}
+
+
+.line{
+    background-color: blue;
+    width: 36px;
+    height: 4px;
+    border-radius: 6px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+
+}
+
+.hamburger{
+
+    display: flex;
+    flex-direction: column;
+   
+}
